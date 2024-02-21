@@ -32,3 +32,14 @@ const myFunction = function(){
 }
 
 console.log (typeof bigNumber);
+
+
+// Memory
+
+// Stack(primitive), Heap (Non primitive)
+
+let myYoutubename = "sintooraj"
+
+let anothername = myYoutubename
+
+console.log(anothername);
